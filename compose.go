@@ -1,3 +1,4 @@
+// Package compose provides a helper function to compose Echo middlewares.
 package compose
 
 import "github.com/labstack/echo/v4"
