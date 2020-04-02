@@ -2,6 +2,8 @@
 
 [![Godoc Reference](https://godoc.org/github.com/hallazzang/echo-compose?status.svg)](https://godoc.org/github.com/hallazzang/echo-compose)
 [![Goreportcard Result](https://goreportcard.com/badge/github.com/hallazzang/echo-compose)](https://goreportcard.com/report/github.com/hallazzang/echo-compose)
+[![Build Status](https://travis-ci.org/hallazzang/echo-compose.svg?branch=master)](https://travis-ci.org/hallazzang/echo-compose)
+[![Codecov Status](https://codecov.io/gh/hallazzang/echo-compose/branch/master/graph/badge.svg)](https://codecov.io/gh/hallazzang/echo-compose)
 
 Compose two or more echo middlewares together.
 
