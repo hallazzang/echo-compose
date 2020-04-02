@@ -1,5 +1,8 @@
 # echo-compose
 
+[![Godoc Reference](https://godoc.org/github.com/hallazzang/echo-compose?status.svg)](https://godoc.org/github.com/hallazzang/echo-compose)
+[![Goreportcard Result](https://goreportcard.com/badge/github.com/hallazzang/echo-compose)](https://goreportcard.com/report/github.com/hallazzang/echo-compose)
+
 Compose two or more echo middlewares together.
 
 ## Installation
